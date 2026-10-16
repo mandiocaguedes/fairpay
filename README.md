@@ -1,6 +1,6 @@
 # [Fairpay]
 
-> **Professores(as):** [Tiago, Kge,Peterson e Henderson]  
+> **Professores(as):** [Tiago, Kleber Gelli, Peterson e Henderson]  
 > **Ano:** [2026]  
 > **Turma/Curso:** [Desenvolvimento de Sistemas - Turma A]  
 
