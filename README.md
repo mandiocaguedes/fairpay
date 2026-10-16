@@ -19,7 +19,7 @@
 
 ## 📌 Sobre o Projeto
 Nosso projeto se baseia em um intermediador de pagamentos. Basicamente, nossa função é receber o dinheiro do cliente e só repassar ele quando a entrega/conclusão do serviço for efetuada.
-Cremos que nosso serviço se encaixa perfeitamente principalmente no sistema de delivery de comida, mas também pretendemos ter nosso campo de atuação em um âmbito mais abrangente.
+Cremos que nosso serviço se encaixa perfeitamente, principalmente, no sistema de delivery de comida, mas também pretendemos ter nosso campo de atuação em um âmbito mais abrangente.
 Um Gateway (intermediador) que atua primordialmente em pedidos virtuais,nosso objetivo é conter a transferência do dinheiro antes da realização da entrega de determinado produto. 
 Nesse sentido, faremos isso recebendo o dinheiro do cliente, “armazenando” esse valor e transferindo ele quando ocorrer o término do processo. Com isso os benefícios são de maior segurança
 no efetuamento de pagamentos, garantindo a manutenção da satisfação do cliente.
